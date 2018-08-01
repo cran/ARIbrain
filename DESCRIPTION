@@ -1,5 +1,5 @@
 Package: ARIbrain
-Version: 0.1
+Version: 0.2
 Date: 2018-07-27
 Title: All-Resolution Inference
 Author: Livio Finos, Jelle Goeman, Wouter Weeda, Jonathan Rosenblatt, Aldo Solari
@@ -13,6 +13,6 @@ Suggests: knitr, rmarkdown
 Imports: hommel, RNifti, plyr
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2018-07-31 13:22:45 UTC; livio
+Packaged: 2018-08-01 11:27:29 UTC; livio
 Repository: CRAN
-Date/Publication: 2018-07-31 14:50:03 UTC
+Date/Publication: 2018-08-01 12:20:02 UTC

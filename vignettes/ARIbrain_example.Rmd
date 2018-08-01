@@ -4,7 +4,7 @@ author: "Livio Finos, Jelle Goeman, Wouter Weeda, Jonathan Rosenblatt, Aldo Sola
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Quit tutorial for ARIbrain package}
+  %\VignetteIndexEntry{Tutorial for ARIbrain package}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
